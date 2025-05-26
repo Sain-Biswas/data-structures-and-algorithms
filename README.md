@@ -8,19 +8,19 @@ A repository that contains code related to `Data Structures and Algorithm` part 
 
 ## Topics covered
 
-- Array
-- Binary Search
-- String
-- LinkedList
-- Recursion
-- Stack
-- Queue
-- Bit Manipulation
-- Tree
-- Heaps
-- Graph
-- Dynamic Programming
-- Greedy
-- Trie
+- [ ] Array
+- [ ] Binary Search
+- [ ] String
+- [ ] LinkedList
+- [ ] Recursion
+- [ ] Stack
+- [ ] Queue
+- [ ] Bit Manipulation
+- [ ] Tree
+- [ ] Heaps
+- [ ] Graph
+- [ ] Dynamic Programming
+- [ ] Greedy
+- [ ] Trie
 
 You are free to suggest optimized code or correct mistakes.
